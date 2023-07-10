@@ -1,31 +1,37 @@
-C:\Users\joker\OneDrive\Desktop\Claudiu\BD Project\MedicalCabinetUI\packages\Microsoft.Win32.Registry.5.0.0\lib\net461\Microsoft.Win32.Registry.xml
-C:\Users\joker\OneDrive\Desktop\Claudiu\BD Project\MedicalCabinetUI\packages\Microsoft.Win32.Registry.AccessControl.6.0.0\lib\net461\Microsoft.Win32.Registry.AccessControl.xml
-C:\Users\joker\OneDrive\Desktop\Claudiu\BD Project\MedicalCabinetUI\packages\Microsoft.Win32.SystemEvents.6.0.0\lib\net461\Microsoft.Win32.SystemEvents.xml
-C:\Users\joker\OneDrive\Desktop\Claudiu\BD Project\MedicalCabinetUI\packages\Newtonsoft.Json.12.0.2\lib\net45\Newtonsoft.Json.xml
-C:\Users\joker\OneDrive\Desktop\Claudiu\BD Project\MedicalCabinetUI\packages\RestSharpSigned.105.2.3\lib\net46\RestSharp.xml
-C:\Users\joker\OneDrive\Desktop\Claudiu\BD Project\MedicalCabinetUI\packages\System.Buffers.4.5.1\lib\net461\System.Buffers.xml
-C:\Users\joker\OneDrive\Desktop\Claudiu\BD Project\MedicalCabinetUI\packages\System.CodeDom.6.0.0\lib\net461\System.CodeDom.xml
-C:\Users\joker\OneDrive\Desktop\Claudiu\BD Project\MedicalCabinetUI\packages\System.Configuration.ConfigurationManager.6.0.0\lib\net461\System.Configuration.ConfigurationManager.xml
-C:\Users\joker\OneDrive\Desktop\Claudiu\BD Project\MedicalCabinetUI\packages\System.Data.Odbc.6.0.0\lib\net461\System.Data.Odbc.xml
-C:\Users\joker\OneDrive\Desktop\Claudiu\BD Project\MedicalCabinetUI\packages\System.Data.OleDb.6.0.0\lib\net461\System.Data.OleDb.xml
-C:\Users\joker\OneDrive\Desktop\Claudiu\BD Project\MedicalCabinetUI\packages\System.Data.SqlClient.4.8.3\lib\net461\System.Data.SqlClient.xml
-C:\Users\joker\OneDrive\Desktop\Claudiu\BD Project\MedicalCabinetUI\packages\System.Diagnostics.EventLog.6.0.0\lib\net461\System.Diagnostics.EventLog.xml
-C:\Users\joker\OneDrive\Desktop\Claudiu\BD Project\MedicalCabinetUI\packages\System.Diagnostics.PerformanceCounter.6.0.0\lib\net461\System.Diagnostics.PerformanceCounter.xml
-C:\Users\joker\OneDrive\Desktop\Claudiu\BD Project\MedicalCabinetUI\packages\System.Drawing.Common.6.0.0\lib\net461\System.Drawing.Common.xml
-C:\Users\joker\OneDrive\Desktop\Claudiu\BD Project\MedicalCabinetUI\packages\System.IO.FileSystem.AccessControl.5.0.0\lib\net461\System.IO.FileSystem.AccessControl.xml
-C:\Users\joker\OneDrive\Desktop\Claudiu\BD Project\MedicalCabinetUI\packages\System.IO.Packaging.6.0.0\lib\net461\System.IO.Packaging.xml
-C:\Users\joker\OneDrive\Desktop\Claudiu\BD Project\MedicalCabinetUI\packages\System.IO.Ports.6.0.0\lib\net461\System.IO.Ports.xml
-C:\Users\joker\OneDrive\Desktop\Claudiu\BD Project\MedicalCabinetUI\packages\System.Memory.4.5.4\lib\net461\System.Memory.xml
-C:\Users\joker\OneDrive\Desktop\Claudiu\BD Project\MedicalCabinetUI\packages\System.Numerics.Vectors.4.5.0\lib\net46\System.Numerics.Vectors.xml
-C:\Users\joker\OneDrive\Desktop\Claudiu\BD Project\MedicalCabinetUI\packages\System.Runtime.CompilerServices.Unsafe.6.0.0\lib\net461\System.Runtime.CompilerServices.Unsafe.xml
-C:\Users\joker\OneDrive\Desktop\Claudiu\BD Project\MedicalCabinetUI\packages\System.Security.AccessControl.6.0.0\lib\net461\System.Security.AccessControl.xml
-C:\Users\joker\OneDrive\Desktop\Claudiu\BD Project\MedicalCabinetUI\packages\System.Security.Cryptography.Cng.5.0.0\lib\net47\System.Security.Cryptography.Cng.xml
-C:\Users\joker\OneDrive\Desktop\Claudiu\BD Project\MedicalCabinetUI\packages\System.Security.Cryptography.Pkcs.6.0.0\lib\net461\System.Security.Cryptography.Pkcs.xml
-C:\Users\joker\OneDrive\Desktop\Claudiu\BD Project\MedicalCabinetUI\packages\System.Security.Cryptography.ProtectedData.6.0.0\lib\net461\System.Security.Cryptography.ProtectedData.xml
-C:\Users\joker\OneDrive\Desktop\Claudiu\BD Project\MedicalCabinetUI\packages\System.Security.Cryptography.Xml.6.0.0\lib\net461\System.Security.Cryptography.Xml.xml
-C:\Users\joker\OneDrive\Desktop\Claudiu\BD Project\MedicalCabinetUI\packages\System.Security.Permissions.6.0.0\lib\net461\System.Security.Permissions.xml
-C:\Users\joker\OneDrive\Desktop\Claudiu\BD Project\MedicalCabinetUI\packages\System.Security.Principal.Windows.5.0.0\lib\net461\System.Security.Principal.Windows.xml
-C:\Users\joker\OneDrive\Desktop\Claudiu\BD Project\MedicalCabinetUI\packages\System.ServiceModel.Syndication.6.0.0\lib\net461\System.ServiceModel.Syndication.xml
-C:\Users\joker\OneDrive\Desktop\Claudiu\BD Project\MedicalCabinetUI\packages\System.ServiceProcess.ServiceController.6.0.0\lib\net461\System.ServiceProcess.ServiceController.xml
-C:\Users\joker\OneDrive\Desktop\Claudiu\BD Project\MedicalCabinetUI\packages\System.Text.Encoding.CodePages.6.0.0\lib\net461\System.Text.Encoding.CodePages.xml
-C:\Users\joker\OneDrive\Desktop\Claudiu\BD Project\MedicalCabinetUI\packages\System.Threading.AccessControl.6.0.0\lib\net461\System.Threading.AccessControl.xml
+D:\Visual Studio Projects\Medical Cabinet WinForms\Medical-Cabinet-WinForms\packages\Microsoft.Bcl.AsyncInterfaces.7.0.0\lib\net462\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Visual Studio Projects\Medical Cabinet WinForms\Medical-Cabinet-WinForms\packages\Microsoft.Win32.Registry.5.0.0\lib\net461\Microsoft.Win32.Registry.xml
+D:\Visual Studio Projects\Medical Cabinet WinForms\Medical-Cabinet-WinForms\packages\Microsoft.Win32.Registry.AccessControl.6.0.0\lib\net461\Microsoft.Win32.Registry.AccessControl.xml
+D:\Visual Studio Projects\Medical Cabinet WinForms\Medical-Cabinet-WinForms\packages\Microsoft.Win32.SystemEvents.6.0.0\lib\net461\Microsoft.Win32.SystemEvents.xml
+D:\Visual Studio Projects\Medical Cabinet WinForms\Medical-Cabinet-WinForms\packages\Newtonsoft.Json.12.0.2\lib\net45\Newtonsoft.Json.xml
+D:\Visual Studio Projects\Medical Cabinet WinForms\Medical-Cabinet-WinForms\packages\RestSharpSigned.105.2.3\lib\net46\RestSharp.xml
+D:\Visual Studio Projects\Medical Cabinet WinForms\Medical-Cabinet-WinForms\packages\System.Buffers.4.5.1\lib\net461\System.Buffers.xml
+D:\Visual Studio Projects\Medical Cabinet WinForms\Medical-Cabinet-WinForms\packages\System.CodeDom.6.0.0\lib\net461\System.CodeDom.xml
+D:\Visual Studio Projects\Medical Cabinet WinForms\Medical-Cabinet-WinForms\packages\System.Configuration.ConfigurationManager.6.0.0\lib\net461\System.Configuration.ConfigurationManager.xml
+D:\Visual Studio Projects\Medical Cabinet WinForms\Medical-Cabinet-WinForms\packages\System.Data.Odbc.6.0.0\lib\net461\System.Data.Odbc.xml
+D:\Visual Studio Projects\Medical Cabinet WinForms\Medical-Cabinet-WinForms\packages\System.Data.OleDb.6.0.0\lib\net461\System.Data.OleDb.xml
+D:\Visual Studio Projects\Medical Cabinet WinForms\Medical-Cabinet-WinForms\packages\System.Data.SqlClient.4.8.3\lib\net461\System.Data.SqlClient.xml
+D:\Visual Studio Projects\Medical Cabinet WinForms\Medical-Cabinet-WinForms\packages\System.Diagnostics.EventLog.6.0.0\lib\net461\System.Diagnostics.EventLog.xml
+D:\Visual Studio Projects\Medical Cabinet WinForms\Medical-Cabinet-WinForms\packages\System.Diagnostics.PerformanceCounter.6.0.0\lib\net461\System.Diagnostics.PerformanceCounter.xml
+D:\Visual Studio Projects\Medical Cabinet WinForms\Medical-Cabinet-WinForms\packages\System.Drawing.Common.6.0.0\lib\net461\System.Drawing.Common.xml
+D:\Visual Studio Projects\Medical Cabinet WinForms\Medical-Cabinet-WinForms\packages\System.IO.FileSystem.AccessControl.5.0.0\lib\net461\System.IO.FileSystem.AccessControl.xml
+D:\Visual Studio Projects\Medical Cabinet WinForms\Medical-Cabinet-WinForms\packages\System.IO.Packaging.6.0.0\lib\net461\System.IO.Packaging.xml
+D:\Visual Studio Projects\Medical Cabinet WinForms\Medical-Cabinet-WinForms\packages\System.IO.Ports.6.0.0\lib\net461\System.IO.Ports.xml
+D:\Visual Studio Projects\Medical Cabinet WinForms\Medical-Cabinet-WinForms\packages\System.Memory.4.5.5\lib\net461\System.Memory.xml
+D:\Visual Studio Projects\Medical Cabinet WinForms\Medical-Cabinet-WinForms\packages\System.Net.Http.Json.7.0.1\lib\net462\System.Net.Http.Json.xml
+D:\Visual Studio Projects\Medical Cabinet WinForms\Medical-Cabinet-WinForms\packages\System.Numerics.Vectors.4.5.0\lib\net46\System.Numerics.Vectors.xml
+D:\Visual Studio Projects\Medical Cabinet WinForms\Medical-Cabinet-WinForms\packages\System.Runtime.CompilerServices.Unsafe.6.0.0\lib\net461\System.Runtime.CompilerServices.Unsafe.xml
+D:\Visual Studio Projects\Medical Cabinet WinForms\Medical-Cabinet-WinForms\packages\System.Security.AccessControl.6.0.0\lib\net461\System.Security.AccessControl.xml
+D:\Visual Studio Projects\Medical Cabinet WinForms\Medical-Cabinet-WinForms\packages\System.Security.Cryptography.Cng.5.0.0\lib\net47\System.Security.Cryptography.Cng.xml
+D:\Visual Studio Projects\Medical Cabinet WinForms\Medical-Cabinet-WinForms\packages\System.Security.Cryptography.Pkcs.6.0.0\lib\net461\System.Security.Cryptography.Pkcs.xml
+D:\Visual Studio Projects\Medical Cabinet WinForms\Medical-Cabinet-WinForms\packages\System.Security.Cryptography.ProtectedData.6.0.0\lib\net461\System.Security.Cryptography.ProtectedData.xml
+D:\Visual Studio Projects\Medical Cabinet WinForms\Medical-Cabinet-WinForms\packages\System.Security.Cryptography.Xml.6.0.0\lib\net461\System.Security.Cryptography.Xml.xml
+D:\Visual Studio Projects\Medical Cabinet WinForms\Medical-Cabinet-WinForms\packages\System.Security.Permissions.6.0.0\lib\net461\System.Security.Permissions.xml
+D:\Visual Studio Projects\Medical Cabinet WinForms\Medical-Cabinet-WinForms\packages\System.Security.Principal.Windows.5.0.0\lib\net461\System.Security.Principal.Windows.xml
+D:\Visual Studio Projects\Medical Cabinet WinForms\Medical-Cabinet-WinForms\packages\System.ServiceModel.Syndication.6.0.0\lib\net461\System.ServiceModel.Syndication.xml
+D:\Visual Studio Projects\Medical Cabinet WinForms\Medical-Cabinet-WinForms\packages\System.ServiceProcess.ServiceController.6.0.0\lib\net461\System.ServiceProcess.ServiceController.xml
+D:\Visual Studio Projects\Medical Cabinet WinForms\Medical-Cabinet-WinForms\packages\System.Text.Encoding.CodePages.6.0.0\lib\net461\System.Text.Encoding.CodePages.xml
+D:\Visual Studio Projects\Medical Cabinet WinForms\Medical-Cabinet-WinForms\packages\System.Text.Encodings.Web.7.0.0\lib\net462\System.Text.Encodings.Web.xml
+D:\Visual Studio Projects\Medical Cabinet WinForms\Medical-Cabinet-WinForms\packages\System.Text.Json.7.0.2\lib\net462\System.Text.Json.xml
+D:\Visual Studio Projects\Medical Cabinet WinForms\Medical-Cabinet-WinForms\packages\System.Threading.AccessControl.6.0.0\lib\net461\System.Threading.AccessControl.xml
+D:\Visual Studio Projects\Medical Cabinet WinForms\Medical-Cabinet-WinForms\packages\System.Threading.Tasks.Extensions.4.5.4\lib\net461\System.Threading.Tasks.Extensions.xml
+D:\Visual Studio Projects\Medical Cabinet WinForms\Medical-Cabinet-WinForms\packages\System.ValueTuple.4.5.0\lib\net47\System.ValueTuple.xml
