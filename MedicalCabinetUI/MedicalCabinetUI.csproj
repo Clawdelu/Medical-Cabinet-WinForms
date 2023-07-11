@@ -238,7 +238,8 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
-    <Compile Include="MedicalStaff.cs" />
+    <Compile Include="Models\MedicalStaff.cs" />
+    <Compile Include="Models\MedicalStaffPOST.cs" />
     <Compile Include="MyApiClient.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
