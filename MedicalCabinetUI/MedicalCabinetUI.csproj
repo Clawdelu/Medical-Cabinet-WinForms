@@ -238,8 +238,17 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="Models\Consultation.cs" />
+    <Compile Include="Models\ConsultationPOST.cs" />
+    <Compile Include="Models\ConsultationPUT.cs" />
+    <Compile Include="Models\Cons_medic.cs" />
+    <Compile Include="Models\Cons_MedicDto.cs" />
     <Compile Include="Models\MedicalStaff.cs" />
     <Compile Include="Models\MedicalStaffPOST.cs" />
+    <Compile Include="Models\Medication.cs" />
+    <Compile Include="Models\MedicationPOST.cs" />
+    <Compile Include="Models\Patient.cs" />
+    <Compile Include="Models\PatientPOST.cs" />
     <Compile Include="MyApiClient.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
